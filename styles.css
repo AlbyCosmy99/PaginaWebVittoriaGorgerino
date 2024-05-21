@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main-container {
+    min-height: 100vh;
+    flex: 1;
+}
+
+.get-in-touch-btn {
+    border: 3px solid grey;
+    background-color: white;
+    color: grey;
+    padding: 0.8rem;
+    width: 10rem;
+}
+
+.title-container {
+    background-image: url("https://www.raiplay.it/cropgd/1200x600/dl/img/2024/02/26/1708941836265_2048x1152.jpg");
+    background-size: cover;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    padding: 15rem;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.item {
+    height: 35rem;
+    padding: 0;
+}
+
+.text-item {
+    padding-top: 4rem;
+    padding-left: 2rem;
+}
