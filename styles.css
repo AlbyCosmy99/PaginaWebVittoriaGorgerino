@@ -20,6 +20,7 @@
 .title-container {
     background-image: url("https://www.raiplay.it/cropgd/1200x600/dl/img/2024/02/26/1708941836265_2048x1152.jpg");
     background-size: cover;
+    background-position: center center;
     color: white;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
     padding: 15rem;
