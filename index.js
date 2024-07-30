@@ -1,0 +1,1 @@
+document.cookie = "exampleCookie=value; path=/; domain=.onrender.com; SameSite=None; Secure";
